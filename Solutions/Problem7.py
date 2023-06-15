@@ -1,5 +1,6 @@
 import numpy as np
 
+# implements is_prime
 def isPrime(num: int) -> bool:
     test = 2
     while test <= np.sqrt(num):
