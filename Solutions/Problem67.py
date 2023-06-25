@@ -1,4 +1,4 @@
-f = open("inputs/Problem18.txt")
+f = open("inputs/Problem67.txt")
 
 lines = []
 line = f.readline()
